@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1058940032698",
+    "firebase_url": "https://fir-notifications-1fbd0.firebaseio.com",
+    "project_id": "fir-notifications-1fbd0",
+    "storage_bucket": "fir-notifications-1fbd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058940032698:android:07c36c60dedca2ac",
+        "android_client_info": {
+          "package_name": "br.com.mespinas.demonotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058940032698-46ur1su001b5foo7i63l8g992p0hls8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRl3C_CoQ-uT6oep0RUX-GCIJlmVhqYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
