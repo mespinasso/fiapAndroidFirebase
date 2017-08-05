@@ -18,8 +18,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        Fabric.with(this, new Crashlytics());
-
         setContentView(R.layout.activity_main);
 
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
